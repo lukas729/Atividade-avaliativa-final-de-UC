@@ -1,6 +1,6 @@
-let numeros = [2, 4, 6, 8];
+let num = [2, 4, 6, 8];
 let soma = 0
-for (let i = 0; i < numeros.length; i++) {
-    soma += numeros[i];
+for (let i = 0; i < num.length; i++) {
+    soma += num[i];
 }
 console.log(soma);
